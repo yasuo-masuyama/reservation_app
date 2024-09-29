@@ -12,6 +12,7 @@ gem "cssbundling-rails"
 gem "jbuilder"
 gem "bootsnap", require: false
 gem "haml-rails"
+gem "devise"
 
 group :development, :test do
   gem "factory_bot_rails"
