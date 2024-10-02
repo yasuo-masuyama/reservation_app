@@ -1,0 +1,9 @@
+ja:
+  simple_form:
+    hints:
+      user:
+        password: '半角英数字のみ使えます'
+    placeholders:
+      user:
+        email: 'example@example.com'
+        password: 'password'
